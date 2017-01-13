@@ -7,11 +7,11 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-  <link rel="stylesheet" href="/matthewbates.github.io/assets/css/style.css?v=25bc4393b4fece6c1e7d88ac72a7afdd8fa21094">
+  <link rel="stylesheet" href="/DoraXue.github.io/assets/css/style.css?v=25bc4393b4fece6c1e7d88ac72a7afdd8fa21094">
   <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script type="text/javascript" src="/matthewbates.github.io/assets/js/script.js"></script>
+  <script type="text/javascript" src="/DoraXue.github.io/assets/js/script.js"></script>
 
-  <title>matthewbates.github.io</title>
+  <title>DoraXue.github.io</title>
   <meta name="description" content="Welcome!">
 
   <meta name="viewport" content="width=device-width,initial-scale=1">
