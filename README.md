@@ -4,7 +4,7 @@
 <html lang="en-us">
   <head>
     <meta charset="UTF-8">
-    <title>Sharpnack Lab</title>
+    <title>Da Xue</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
@@ -20,41 +20,26 @@
   </head>
   <body>
     <section class="page-header">
-      <h1 class="project-name">UC Davis Sharpnack Lab</h1>
-      <h2 class="project-tagline">James Sharpnack <br>Mathematical Sciences Building 4107<br>jsharpna@ucdavis.edu</h2>
+      <h1 class="project-name">Da Xue</h1>
+      <!--<h2 class="project-tagline">James Sharpnack <br>Mathematical Sciences Building 4107<br>jsharpna@ucdavis.edu</h2>-->
     </section>
 
     <section class="main-content">
       <h3>About me.</h3>
       <div class="section group">
 	<div class="col span_2_left">
-      <p>I am an assistant professor at UC Davis in the Statistics department. Before this I was a postdoctoral researcher and lecturer at UCSD in the Mathematics department. I hold a Ph.D in Machine Learning and Statistics from Carnegie Mellon University where my advisors were <a href="http://www.cs.cmu.edu/~aarti/">Aarti Singh</a> and <a href="http://www.stat.cmu.edu/~arinaldo/">Alessandro Rinaldo</a>.  In my research, I develop and study computationally efficient statistical methodology for understanding complex phenomena in large datasets.</p>
+      <p>I am a Ph.D. student in Chemical Engineering of UC Davis. My advisor is Prof. Nael El-Farra. </p>
 	</div>
 	<div class="col span_2_right">
 	  <img src="stylesheets/boardPortrait.JPG" />
 	</div>
       </div>
 
-<h3>Teaching</h3>
+<h3>STA141B Projects</h3>
 <ol>
   <li><a href="https://docs.google.com/document/d/15snbrjlwUYmwj4voSA_33qqtMxHrYXKlhnElGK1dPC0/edit?usp=sharing">Stats 290</a>: Statistics Seminar Series</li>
   <li><a href="141B/index.html">Stats 141B</a>: Data & Web Technologies for Data Analysis</li>
   <li><a href="208/index.html">Stats 208</a>: Machine Learning</li>
-</ol>
-
-<h3>Students</h3>
-<ol>
-  <li>Liwei Wu, PhD Student</li>
-  <li>Xiaoyue Li, PhD Student</li>
-  <li>Yujun Chen, Masters Student</li>
-  <li>Andrew Chin, Undergraduate Student</li>
-</ol>
-
-<h3>Professional Membership</h3>
-<ol>
-  <li>Institute of Mathematical Statistics</li>
-  <li>Bernoulli Society</li>
-  <li>IEEE, Signal Processing Society</li>
 </ol>
 
 <h3>Research</h3>
