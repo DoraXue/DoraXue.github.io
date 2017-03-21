@@ -21,7 +21,7 @@
       <h2>ABOUT ME</h2>
       <div class="section group">
       <div class="col span_2_right">
-	  			<img class="roundrect" src="pictures/portrait.jpg" width="200" height="200" align="right"/>
+	  			<img class="rcorners" src="pictures/portrait.jpg" width="200" height="200" align="right"/>
 				</div>
 				<div class="col span_2_left">
 					<p>I am a Ph.D. candidate in Chemical Engineering at UC Davis and my research is in the general area of process systems engineering, with emphasis on computational modeling, simulation, control and optimization of networked process systems. </p>
