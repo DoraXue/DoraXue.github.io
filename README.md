@@ -18,19 +18,21 @@
   <body>
 
     <section class="main-content">
-      <h3>About me</h3>
+      <h2>About me</h2>
       <div class="section group">
 	<div class="col span_2_left">
       <p>I am a Ph.D. candidate in Chemical Engineering at UC Davis and my research is in the general area of process systems engineering, with emphasis on computational modeling, simulation, control and optimization of networked process systems. </p>
-      <p>I'm taking courses in statistics as I find them really fanscinating! </div>
+      <p>I'm taking courses in statistics as I find them really fanscinating!
 	<div class="col span_2_right">
+	<div>
 	  <img src="linkedin.jpg" />
+	</div>
 
 <section class="main-content">
-	<h3>STA141B Projects</h3>
+	<h2>STA141B Projects</h2>
 
 <section class="main-content">
-	<h3>Research</h3>
+	<h2>Research</h2>
 	
   
 
