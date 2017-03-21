@@ -2,7 +2,7 @@
 <html lang="en-us">
   <head>
     <meta charset="UTF-8">
-    <title>Da Xue</title>
+    <!--<title>Da Xue</title>-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
@@ -19,7 +19,7 @@
   <body>
     <section class="page-header">
       <h1 class="project-name">Da Xue</h1>
-      <h2 class="project-tagline">Chemical Engineering Ph.D. <br>xdxue@ucdavis.edu</h2>
+      <h3 class="project-tagline">Chemical Engineering Ph.D. <br>xdxue@ucdavis.edu</h3>
     </section>
 
     <section class="main-content">
@@ -35,56 +35,10 @@
       </div>
 
 <h3>STA141B Projects</h3>
-<ol>
-  <li><a href="https://docs.google.com/document/d/15snbrjlwUYmwj4voSA_33qqtMxHrYXKlhnElGK1dPC0/edit?usp=sharing">Stats 290</a>: Statistics Seminar Series</li>
-  <li><a href="141B/index.html">Stats 141B</a>: Data & Web Technologies for Data Analysis</li>
-  <li><a href="208/index.html">Stats 208</a>: Machine Learning</li>
-</ol>
+
 
 <h3>Research</h3>
 
-<div class="pubsec section group">
-<div class="col span_half">
-  <a href="research/graphsignal.html"><img src="media/As_slide.png" type="application/pdf"></img></a>
-</div>
-<div class="col span_half">
-  <a href="research/graphsignal.html"><h4>Graph Structured Signal Processing</h4>
-  (6 publications)<br></a>
-  Traditional signal processing techniques such as wavelet denoising and kernel smoothing, implicitly assume that the domain is homogeneous.  Graph structure provides us with a more flexible framework for filters over heterogeneous media, social networks, or semantic information.
-</div>
-</div>
-
-<div class="pubsec section group">
-<div class="col span_half">
-  <a href="research/scan.html"><h4>Scan Statistics over Networks</h4>
-    (6 publications)<br></a>
-    We develop novel methodology for detecting faint signals in sensor networks and images.
-  In images we develop a precise asymptotic analysis for fast scanning tools based on convolutional feedforward neural nets.
-  In general graphs, we look at approximation algorithms for the generalized likelihood ratio test.
-</div>
-<div class="col span_half">
-  <a href="research/scan.html"><img width="60%" src="media/graphscan.png" type="application/pdf"></img></a>
-</div>
-</div>
-
-<div class="pubsec section group">
-<div class="col span_half">
-  <a href="research/nonpara.html"><img src="media/noisyFused2.png" type="application/pdf"></img></a>
-</div>
-<div class="col span_half">
-  <a href="research/nonpara.html"><h4>Estimation in High-dimensions</h4>
-  (3 publications)<br></a>
-  Here we look at the fused lasso and trend filtering, which are locally adaptive non-linear filters that can outperform wavelet denoising.
-  We also explore heteroscedasticity in high-dimensional models, for variance function estimation and locating master regulators in genomics data.
-</div>
-</div>
-
-<h3>Resources</h3>
-
-<ol>
-  <li>Starting your data science portfolio: <a href="141B/workflow.html">your workflow</a>, <a href="141B/git_instructions.html">git and GitHub</a></li>
-  <li>Massive list of <a href="https://github.com/caesar0301/awesome-public-datasets">public datasets</a></li>
-</ol>
   
 
 
