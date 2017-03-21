@@ -21,19 +21,19 @@
       <h2>About me</h2>
       <div class="section group">
       <div class="col span_2_right">
-	  			<img src="pictures/portrait.jpg" width="200" height="200" align="right"/>
+	  			<img class="roundrect" src="pictures/portrait.jpg" width="200" height="200" align="right"/>
 				</div>
 				<div class="col span_2_left">
 					<p>I am a Ph.D. candidate in Chemical Engineering at UC Davis and my research is in the general area of process systems engineering, with emphasis on computational modeling, simulation, control and optimization of networked process systems. </p>
 					
 					<p>I'm taking courses in statistics as I find them really fanscinating!
-				</div>
+
 			
 
 <section class="main-content">
 	<h2>STA141B Projects</h2>
-	<p> Final Project </p>
-		<a href="https://celinechen0211.github.io/JobMarket/jobmarket.html"><img src="pictures/project.jpg" width="400" align="center"/></a>
+	<a href="https://celinechen0211.github.io/JobMarket/jobmarket.html"><p> Final Project </p></a>
+		<a href="https://celinechen0211.github.io/JobMarket/jobmarket.html"><img src="pictures/project.jpg" width="600" align="center"/></a>
 
 	<p> Homework Assignments </p>
 	
