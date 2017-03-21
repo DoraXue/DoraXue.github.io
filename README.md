@@ -33,7 +33,8 @@
 <section class="main-content">
 	<h2>STA141B Projects</h2>
 	<p> Final Project </p>
-		<img src="pictures/project.jpg" width="400" align="center"/>
+		<a href="https://celinechen0211.github.io/JobMarket/jobmarket.html"><img src="pictures/project.jpg" width="400" align="center"/></a>
+
 	<p> Homework Assignments </p>
 	
 	<div class="section group">
