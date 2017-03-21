@@ -25,14 +25,15 @@
 					<p>I'm taking courses in statistics as I find them really fanscinating!
 				</div>
 			
-			<div class="col span_2_right">
-	  		<img src="pictures/portrait.jpg" width="200" height="200" align="right"/>
+				<div class="col span_2_right">
+	  			<img src="pictures/portrait.jpg" width="200" height="200" align="right"/>
+				</div>
 			</div>
 
 <section class="main-content">
 	<h2>STA141B Projects</h2>
 	<p> Final Project </p>
-		<img src="pictures/project.jpg" width="200" align="center"/>
+		<img src="pictures/project.jpg" width="400" align="center"/>
 	<p> Homework Assignments </p>
 	
 	<div class="section group">
