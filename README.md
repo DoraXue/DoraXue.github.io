@@ -26,13 +26,13 @@
 				<div class="col span_2_left">
 					<p>I am a Ph.D. candidate in Chemical Engineering at UC Davis and my research is in the general area of process systems engineering, with emphasis on computational modeling, simulation, control and optimization of networked process systems. </p>
 					
-					<p>I'm taking courses in statistics as I find them really fanscinating!
+					<p>I'm taking courses in statistics as I find them really fanscinating. I'm especially interested in data visuallization. 
 
 			
 
 <section class="main-content">
-	<h2>STA141B Projects</h2>
-	<a href="https://celinechen0211.github.io/JobMarket/jobmarket.html"><p> Final Project </p></a>
+	<h2>STA141B Project</h2>
+	<p> My project with Jiewei analyzed the current job market of STAT, CHE, and MSE majors. Check out our <a href="https://www.youtube.com/watch?v=vwKmp3zmiXg">video</a> and <a href="https://celinechen0211.github.io/JobMarket/jobmarket.html">project webpage!</a> </p>
 		<a href="https://celinechen0211.github.io/JobMarket/jobmarket.html"><img src="pictures/project.jpg" width="600" align="center"/></a>
 
 	<p> Homework Assignments </p>
