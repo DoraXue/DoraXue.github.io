@@ -40,10 +40,20 @@
 
 <section class="main-content">
 	<h2> EDUCATION </h2>
-	<ul> Ph.D. in Chemical Engineering,University of California, Davis.  09/2013 - present </ul>
-	<br> GPA: 3.85/4.00
-	<ul> Bachelor of Engineering in Control Science and Engineering, Zhejiang University, Hangzhou, China.  09/2009 - 06/2013 </ul>
-	<br> GPA: 3.88/4.00
+	<ul> 
+	<li> Ph.D. in Chemical Engineering<li>
+	
+	University of California, Davis.  09/2013 - present 
+	
+	GPA: 3.85/4.00
+	<br>
+	
+	<li> Bachelor of Engineering in Control Science and Engineering</li> 
+	
+	Zhejiang University, Hangzhou, China.  09/2009 - 06/2013
+	
+	GPA: 3.88/4.00
+	</ul>
 
 <div class = "ex3"> </div>
 
