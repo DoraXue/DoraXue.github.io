@@ -32,8 +32,9 @@
 
 <section class="main-content">
 	<h2>STA141B PROJECT</h2>
+	<a href="https://celinechen0211.github.io/JobMarket/jobmarket.html"><img src="pictures/project.jpg" width="200" align="right"/></a>
 	<p> My course project with Jiewei analyzed the current job market of STAT, CHE, and MSE majors. Check out our <a href="https://www.youtube.com/watch?v=vwKmp3zmiXg">video</a> and <a href="https://celinechen0211.github.io/JobMarket/jobmarket.html">project webpage!</a> </p>
-		<a href="https://celinechen0211.github.io/JobMarket/jobmarket.html"><img src="pictures/project.jpg" width="600" align="center"/></a>
+		
 	
 <div class = "ex3"> </div>
 
