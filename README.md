@@ -18,7 +18,7 @@
   <body>
     <section class="page-header">
       <h1 class="project-name">Da Xue</h1>
-      <h3 class="project-tagline">Chemical Engineering Ph.D. <br>xdxue@ucdavis.edu</h3>
+      <h4 class="project-tagline">Chemical Engineering Ph.D. <br> xdxue@ucdavis.edu</h4>
     </section>
 
     <section class="main-content">
@@ -42,7 +42,7 @@
 
 
       <footer class="site-footer">
-	Copyright James Sharpnack &copy; 2016
+	Copyright Da Xue &copy; 2017
      </footer>
     </section>  
   </body>
