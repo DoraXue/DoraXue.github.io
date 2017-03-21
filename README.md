@@ -18,7 +18,7 @@
   <body>
 
     <section class="main-content">
-      <h2>About me</h2>
+      <h2>ABOUT ME</h2>
       <div class="section group">
       <div class="col span_2_right">
 	  			<img class="roundrect" src="pictures/portrait.jpg" width="200" height="200" align="right"/>
@@ -31,13 +31,23 @@
 <div class = "ex3"> </div>
 
 <section class="main-content">
-	<h2>STA141B Project</h2>
-	<p> My project with Jiewei analyzed the current job market of STAT, CHE, and MSE majors. Check out our <a href="https://www.youtube.com/watch?v=vwKmp3zmiXg">video</a> and <a href="https://celinechen0211.github.io/JobMarket/jobmarket.html">project webpage!</a> </p>
+	<h2>STA141B PROJECT</h2>
+	<p> My course project with Jiewei analyzed the current job market of STAT, CHE, and MSE majors. Check out our <a href="https://www.youtube.com/watch?v=vwKmp3zmiXg">video</a> and <a href="https://celinechen0211.github.io/JobMarket/jobmarket.html">project webpage!</a> </p>
 		<a href="https://celinechen0211.github.io/JobMarket/jobmarket.html"><img src="pictures/project.jpg" width="600" align="center"/></a>
 	
+<div class = "ex3"> </div>
 
 <section class="main-content">
-	<h2>Research Publications</h2>
+	<h2>PROCESS CONTROL RESEARCH </h2>
+	<ul>
+	<li> Expertise in the design and implementation of advanced process control techniques </li>
+	<li> Experienced in modeling, control, analysis, simulation, monitoring and optimization for complex process systems</li>
+	<li> Solid background in mathematics, control theory and engineering, and chemical engineering</li>
+	</ul>
+	
+<div class = "ex3"> </div>
+	
+	<h2>PUBLICATIONS</h2>
 		<ol>
 		<li> <b>Xue D.</b> and N. H. El-Farra, "Optimization-Based Networked Control of Process Systems
 Over Resource-Constrained Communication Networks", in <i> Proceedings of the 56th IEEE Conference on Decision and Control</i>, Melbourne, Australia, <b>2017</b>, submitted.</li>
@@ -47,19 +57,19 @@ in Networked Distributed Processes", in <i> Proceedings of the 56th IEEE Confere
 
 		<li> <b>Xue D.</b> and N. H. El-Farra, "Forecast-Triggered Fault-Tolerant Model Predictive Control of Nonlinear Processes", in <i> Proceedings of the IFAC World Congress</i>, Toulouse, France, <b>2017</b>, accepted.</li>
 
-		<li> <b>Xue D.</b> and N. H. El-Farra, "Resource-Aware Fault Accommodation Strategies for Distributed Processes with Sampled-Data Networked control Systems", in <i> Proceedings of the American Control Conference</i>, Proceedings of the American Control Conference, <b>2017</b>, accepted.</li>
+		<li> <b>Xue D.</b> and N. H. El-Farra, "Resource-Aware Fault Accommodation Strategies for Distributed Processes with Sampled-Data Networked control Systems", in <i> Proceedings of the American Control Conference</i>, Seattle, WA, <b>2017</b>, accepted.</li>
 
-		<li> <b>Xue D.</b> and N. H. El-Farra, "Analysis and Accommodation of Communication Failures in Event-Triggered Networked Distributed Control Systems", in <i> Proceedings of the American Control Conference</i>, Proceedings of the American Control Conference, <b>2017</b>, accepted.</li>
+		<li> <b>Xue D.</b> and N. H. El-Farra, "Analysis and Accommodation of Communication Failures in Event-Triggered Networked Distributed Control Systems", in <i> Proceedings of the American Control Conference</i>, Seattle, WA, <b>2017</b>, accepted.</li>
 		
-		<li> <b>Xue D.</b> and N. H. El-Farra, "Design and Analysis of Output Feedback-Based Event-Triggered Control Systems for Distributed Processes", in <i> Proceedings of the American Control Conference</i>, Las Vegas, <b>2017</b>, accepted.</li>
+		<li> <b>Xue D.</b> and N. H. El-Farra, "Design and Analysis of Output Feedback-Based Event-Triggered Control Systems for Distributed Processes", in <i> Proceedings of the American Control Conference</i>, Las Vegas, <b>2017</b>, <a hrel="http://ieeexplore.ieee.org/abstract/document/7798920"> pp.~4296-4301. </a> </li>
 		
-		<li> <b>Xue D.</b> and N. H. El-Farra, "Event-Triggered Fault-Tolerant Control of Sampled-Data Nonlinear Systems", in <i> Proceedings of the IFAC Symposium on Nonlinear Control Systems (NOLCOS)</i>, Monterey, CA, <b>2016</b> </li>
+		<li> <b>Xue D.</b> and N. H. El-Farra, "Event-Triggered Fault-Tolerant Control of Sampled-Data Nonlinear Systems", in <i> Proceedings of the IFAC Symposium on Nonlinear Control Systems (NOLCOS)</i>, Monterey, CA, <b>2016</b>,<a hrel="http://www.sciencedirect.com/science/article/pii/S2405896316318912"> 49.18 (2016): 1036-1041. </a> </li>
 		
-		<li> <b>Xue D.</b> and N. H. El-Farra, "Supervisory Logic for Control of Networked Process Systems with Event-Based Communication", in <i> Proceedings of the American Control Conference</i>, Boston, MA, <b>2016</b> </li>
+		<li> <b>Xue D.</b> and N. H. El-Farra, "Supervisory Logic for Control of Networked Process Systems with Event-Based Communication", in <i> Proceedings of the American Control Conference</i>, Boston, MA, <b>2016</b>, <a hrel="http://ieeexplore.ieee.org/abstract/document/7526798/"> pp.~7135-7140. </a> </li>
 		
-		<li> <b>Xue D.</b> and N. H. El-Farra, "Actuator Fault-Tolerant Control of Networked Distributed Processes with Event-Triggered Sensor-Controller Communication", in <i> Proceedings of the American Control Conference</i>, Boston, MA, <b>2016</b> </li>
+		<li> <b>Xue D.</b> and N. H. El-Farra, "Actuator Fault-Tolerant Control of Networked Distributed Processes with Event-Triggered Sensor-Controller Communication", in <i> Proceedings of the American Control Conference</i>, Boston, MA, <b>2016</b>, <a href="http://ieeexplore.ieee.org/abstract/document/7525155/"> pp.~1661-1666. </a> </li>
 		
-		<li> <b>Xue D.</b> and N. H. El-Farra, "Networked event-triggered control of spatially distributed processes using a dual-mode communication strategy", in <i> Proceedings of the 54th IEEE Conference on Decision and Control</i>, Osaka, Japan, <b>2015</b> </li>
+		<li> <b>Xue D.</b> and N. H. El-Farra, "Networked event-triggered control of spatially distributed processes using a dual-mode communication strategy", in <i> Proceedings of the 54th IEEE Conference on Decision and Control</i>, Osaka, Japan, <b>2015</b>. <a href="http://ieeexplore.ieee.org/abstract/document/7402487/"> pp.~1899-1904. </a> </li>
 		</ol>
   
 
