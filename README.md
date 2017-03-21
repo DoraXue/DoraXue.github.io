@@ -41,13 +41,17 @@
 		<ol>
 		<li> <b>Xue D.</b> and N. H. El-Farra, "Optimization-Based Networked Control of Process Systems
 Over Resource-Constrained Communication Networks", in <i> Proceedings of the 56th IEEE Conference on Decision and Control</i>, Melbourne, Australia, <b>2017</b>, submitted.</li>
-
-		<li> <b>Xue D.</b> and N. H. El-Farra, "Resource-Aware Fault Accommodation Strategies for Distributed Processes with Sampled-Data Networked control Systems", in <i> Proceedings of the 56th IEEE Conference on Decision and Control</i>, Melbourne, Australia, <b>2017</b>, submitted.</li>
 		
 		<li> <b>Xue D.</b> and N. H. El-Farra, "An Optimization-Based Approach for Dynamic Actuator Scheduling
-in Networked Distributed Processes", in <i> Proceedings of the American Control Conference</i>, Seattle, WA, <b>2017</b>, accepted.</li>
+in Networked Distributed Processes", in <i> Proceedings of the 56th IEEE Conference on Decision and Control</i>, Melbourne, Australia, <b>2017</b>, submitted.</li>
 
-		<li> <b>Xue D.</b> and N. H. El-Farra, "Analysis and Accommodation of Communication Failures in Event-Triggered Networked Distributed Control Systems", in <i> Proceedings of the 55th IEEE Conference on Decision and Control</i>, Las Vegas, NV, <b>2017</b> </li>
+		<li> <b>Xue D.</b> and N. H. El-Farra, "Forecast-Triggered Fault-Tolerant Model Predictive Control of Nonlinear Processes", in <i> Proceedings of the IFAC World Congress</i>, Toulouse, France, <b>2017</b>, accepted.</li>
+
+		<li> <b>Xue D.</b> and N. H. El-Farra, "Resource-Aware Fault Accommodation Strategies for Distributed Processes with Sampled-Data Networked control Systems", in <i> Proceedings of the American Control Conference</i>, Proceedings of the American Control Conference, <b>2017</b>, accepted.</li>
+
+		<li> <b>Xue D.</b> and N. H. El-Farra, "Analysis and Accommodation of Communication Failures in Event-Triggered Networked Distributed Control Systems", in <i> Proceedings of the American Control Conference</i>, Proceedings of the American Control Conference, <b>2017</b>, accepted.</li>
+		
+		<li> <b>Xue D.</b> and N. H. El-Farra, "Design and Analysis of Output Feedback-Based Event-Triggered Control Systems for Distributed Processes", in <i> Proceedings of the American Control Conference</i>, Las Vegas, <b>2017</b>, accepted.</li>
 		
 		<li> <b>Xue D.</b> and N. H. El-Farra, "Event-Triggered Fault-Tolerant Control of Sampled-Data Nonlinear Systems", in <i> Proceedings of the IFAC Symposium on Nonlinear Control Systems (NOLCOS)</i>, Monterey, CA, <b>2016</b> </li>
 		
