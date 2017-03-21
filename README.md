@@ -26,12 +26,10 @@
       <div class="section group">
 	<div class="col span_2_left">
       <p>I am a fourth year Ph.D. student in Chemical Engineering at UC Davis and my research is in the general area of process systems engineering, with emphasis on computational modeling, simulation, control and optimization of networked process systems. </p>
-      <p>I'm taking courses in the statistics as I find them really fanscinating! 
-	</div>
+      <p>I'm taking courses in statistics as I find them really fanscinating! </div>
 	<div class="col span_2_right">
-	  <img src="stylesheets/linkedin.JPG." />
+	  <img src="linkedin.jpg." />
 	</div>
-      </div>
 
 <h3>STA141B Projects</h3>
 
@@ -41,9 +39,6 @@
   
 
 
-      <footer class="site-footer">
-	Copyright Da Xue &copy; 2017
-     </footer>
-    </section>  
-  </body>
-</html>
+<footer class="site-footer">
+    Copyright Da Xue &copy; 2017
+</footer>
