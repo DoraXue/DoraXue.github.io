@@ -28,25 +28,35 @@
 					
 					<p>I'm taking courses in statistics as I find them really fanscinating. I'm especially interested in data visuallization. 
 
-			
+<div class = "ex3"> </div>
 
 <section class="main-content">
 	<h2>STA141B Project</h2>
 	<p> My project with Jiewei analyzed the current job market of STAT, CHE, and MSE majors. Check out our <a href="https://www.youtube.com/watch?v=vwKmp3zmiXg">video</a> and <a href="https://celinechen0211.github.io/JobMarket/jobmarket.html">project webpage!</a> </p>
 		<a href="https://celinechen0211.github.io/JobMarket/jobmarket.html"><img src="pictures/project.jpg" width="600" align="center"/></a>
-
-	<p> Homework Assignments </p>
-	
-	<div class="section group">
-		<div class="col span_3_left">
-		<div class="col span_3_center">
-		<div class="col span_3_right">
-	</div>
 	
 
 <section class="main-content">
 	<h2>Research Publications</h2>
-	
+		<ol>
+		<li> <b>Xue D.</b> and N. H. El-Farra, "Optimization-Based Networked Control of Process Systems
+Over Resource-Constrained Communication Networks", in <i> Proceedings of the 56th IEEE Conference on Decision and Control</i>, Melbourne, Australia, <b>2017</b>, submitted.</li>
+
+		<li> <b>Xue D.</b> and N. H. El-Farra, "Resource-Aware Fault Accommodation Strategies for Distributed Processes with Sampled-Data Networked control Systems", in <i> Proceedings of the 56th IEEE Conference on Decision and Control</i>, Melbourne, Australia, <b>2017</b>, submitted.</li>
+		
+		<li> <b>Xue D.</b> and N. H. El-Farra, "An Optimization-Based Approach for Dynamic Actuator Scheduling
+in Networked Distributed Processes", in <i> Proceedings of the American Control Conference</i>, Seattle, WA, <b>2017</b>, accepted.</li>
+
+		<li> <b>Xue D.</b> and N. H. El-Farra, "Analysis and Accommodation of Communication Failures in Event-Triggered Networked Distributed Control Systems", in <i> Proceedings of the 55th IEEE Conference on Decision and Control</i>, Las Vegas, NV, <b>2017</b> </li>
+		
+		<li> <b>Xue D.</b> and N. H. El-Farra, "Event-Triggered Fault-Tolerant Control of Sampled-Data Nonlinear Systems", in <i> Proceedings of the IFAC Symposium on Nonlinear Control Systems (NOLCOS)</i>, Monterey, CA, <b>2016</b> </li>
+		
+		<li> <b>Xue D.</b> and N. H. El-Farra, "Supervisory Logic for Control of Networked Process Systems with Event-Based Communication", in <i> Proceedings of the American Control Conference</i>, Boston, MA, <b>2016</b> </li>
+		
+		<li> <b>Xue D.</b> and N. H. El-Farra, "Actuator Fault-Tolerant Control of Networked Distributed Processes with Event-Triggered Sensor-Controller Communication", in <i> Proceedings of the American Control Conference</i>, Boston, MA, <b>2016</b> </li>
+		
+		<li> <b>Xue D.</b> and N. H. El-Farra, "Networked event-triggered control of spatially distributed processes using a dual-mode communication strategy", in <i> Proceedings of the 54th IEEE Conference on Decision and Control</i>, Osaka, Japan, <b>2015</b> </li>
+		</ol>
   
 
 
