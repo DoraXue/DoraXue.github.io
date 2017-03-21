@@ -75,25 +75,6 @@ in Networked Distributed Processes", in <i> Proceedings of the 56th IEEE Confere
 		</ol>
   
 
-
-<section>
-   <div tabindex="0">
-     <button>Tab 1</button>
-     <p>Tab Content #1</p>
-   </div>
-   <div tabindex="0">
-     <button>Tab 2</button>
-     <p>Content for Tab #2</p>
-   </div>
-   <div tabindex="0">
-     <button>Tab 3</button>
-     <p>#3 Tab Content</p>
-   </div>
-</section>
-
-<p class="p">Demo by Tim Evko. <a href="http://www.sitepoint.com/you-dont-need-javascript-for-that" target="_blank">See article</a>.</p>
-
-
 <footer class="site-footer">
     Copyright Da Xue &copy; 2017
 </footer>
