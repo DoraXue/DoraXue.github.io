@@ -32,7 +32,9 @@
 <section class="main-content">
 	<h2>STA141B Projects</h2>
 	<p> Final Project </p>
+		<img src="pictures/project.jpg" width="200" align="center"/>
 	<p> Homework Assignments </p>
+	
 	<div class="section group">
 		<div class="col span_3_left">
 		<div class="col span_3_center">
@@ -41,7 +43,7 @@
 	
 
 <section class="main-content">
-	<h2>Research</h2>
+	<h2>Research Publications</h2>
 	
   
 
