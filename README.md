@@ -25,7 +25,7 @@
       <p>I'm taking courses in statistics as I find them really fanscinating!
 	<div class="col span_2_right">
 	<div>
-	  <img src="linkedin.jpg" />
+	  <img src="linkedin.jpg" width="200" height="200" align="right"/>
 	</div>
 
 <section class="main-content">
