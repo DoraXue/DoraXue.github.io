@@ -29,7 +29,7 @@
       <p>I'm taking courses in the statistics as I find them really fanscinating! 
 	</div>
 	<div class="col span_2_right">
-	  <img src="stylesheets/linkedin.jpg." />
+	  <img src="stylesheets/linkedin.JPG." />
 	</div>
       </div>
 
