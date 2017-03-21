@@ -39,6 +39,15 @@
 <div class = "ex3"> </div>
 
 <section class="main-content">
+	<h2> EDUCATION </h2>
+	<ul> Ph.D. in Chemical Engineering,University of California, Davis.  09/2013 - present </ul>
+	<br> GPA: 3.85/4.00
+	<ul> Bachelor of Engineering in Control Science and Engineering, Zhejiang University, Hangzhou, China.  09/2009 - 06/2013 </ul>
+	<br> GPA: 3.88/4.00
+
+<div class = "ex3"> </div>
+
+<section class="main-content">
 	<h2>PROCESS CONTROL RESEARCH </h2>
 	<ul>
 	<li> Expertise in the design and implementation of advanced process control techniques </li>
