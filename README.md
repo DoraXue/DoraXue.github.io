@@ -16,10 +16,6 @@
     </style>
   </head>
   <body>
-    <section class="page-header">
-      <h1 class="project-name">Da Xue</h1>
-      <h4 class="project-tagline">Chemical Engineering Ph.D. <br> xdxue@ucdavis.edu</h4>
-    </section>
 
     <section class="main-content">
       <h3>About me</h3>
@@ -29,13 +25,13 @@
       <p>I'm taking courses in statistics as I find them really fanscinating! </div>
 	<div class="col span_2_right">
 	  <img src="linkedin.jpg." />
-	</div>
 
-<h3>STA141B Projects</h3>
+<section class="main-content">
+	<h3>STA141B Projects</h3>
 
-
-<h3>Research</h3>
-
+<section class="main-content">
+	<h3>Research</h3>
+	
   
 
 
