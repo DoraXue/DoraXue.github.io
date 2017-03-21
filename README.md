@@ -21,10 +21,10 @@
       <h3>About me</h3>
       <div class="section group">
 	<div class="col span_2_left">
-      <p>I am a fourth year Ph.D. student in Chemical Engineering at UC Davis and my research is in the general area of process systems engineering, with emphasis on computational modeling, simulation, control and optimization of networked process systems. </p>
+      <p>I am a Ph.D. candidate in Chemical Engineering at UC Davis and my research is in the general area of process systems engineering, with emphasis on computational modeling, simulation, control and optimization of networked process systems. </p>
       <p>I'm taking courses in statistics as I find them really fanscinating! </div>
 	<div class="col span_2_right">
-	  <img src="linkedin.jpg." />
+	  <img src="linkedin.jpg" />
 
 <section class="main-content">
 	<h3>STA141B Projects</h3>
