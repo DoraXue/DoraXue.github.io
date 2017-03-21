@@ -2,7 +2,6 @@
 <html lang="en-us">
   <head>
     <meta charset="UTF-8">
-    <!--<title>Da Xue</title>-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
@@ -10,7 +9,7 @@
     <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
         <style type="text/css">
       .page-header {
-      background-image:url("stylesheets/whitebg.jpg");
+      <!-- background-image:url("stylesheets/whitebg.jpg"); -->
       color: #fff;
       text-shadow: 0px 0px 4px #ccccff;
       }
