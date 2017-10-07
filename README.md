@@ -24,9 +24,9 @@
 	  			<img class="rcorners" src="pictures/portrait.jpg" width="200" height="200" align="right"/>
 				</div>
 				<div class="col span_2_left">
-					<p>I am a Ph.D. candidate in Chemical Engineering at UC Davis and my research is in the general area of process systems engineering, with emphasis on computational modeling, simulation, control and optimization of networked process systems. </p>
+					<p>I am a Ph.D. candidate in Chemical Engineering at UC Davis and my research is in the general area of process systems engineering, with emphasis on computational modeling, simulation, control and optimization of networked process systems. I'm also a Double Major MS in Statistics now!</p>
 					
-					<p>I'm taking courses in statistics as I find them really fanscinating. Some of my research also involves data-based model identifications, and optimization problems. 
+					
 
 <div class = "ex3"> </div>
 
@@ -36,6 +36,11 @@
 	<p> My course project with Jiewei analyzed the current job market of STAT, CHE, and MSE majors. Check out our <a href="https://www.youtube.com/watch?v=vwKmp3zmiXg">video</a> and <a href="https://celinechen0211.github.io/JobMarket/jobmarket.html">project webpage!</a> </p>
 		
 	
+<section class="main-content">
+	<h2>STA208 PROJECT</h2>
+	<a href="https://celinechen0211.github.io/JobMarket/jobmarket.html"><img src="pictures/project.jpg" width="200" align="right"/></a>
+	<p> My course project again with Jiewei is on Gender Classification from Fame Images. Automatic gender classification is well defined two-class classification problem, yet it has motivated a significant and increasing amount of research and applications, particularly since the rise of social platform and social media, and can be widely used for customized web service and targeted advertising. Check out our <a href="https://celinechen0211.wixsite.com/jiewei-chen/genderclassification">project webpage!</a> </p>
+
 
 <div class = "ex3"> </div>
 
