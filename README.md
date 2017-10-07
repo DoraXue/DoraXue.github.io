@@ -38,7 +38,7 @@
 	
 <section class="main-content">
 	<h2>STA208 PROJECT</h2>
-	<a href="https://celinechen0211.github.io/JobMarket/jobmarket.html"><img src="pictures/project.jpg" width="200" align="right"/></a>
+	<a href="https://celinechen0211.github.io/JobMarket/jobmarket.html"><img src="pictures/208.jpg" width="200" align="right"/></a>
 	<p> My course project again with Jiewei is on Gender Classification from Fame Images. Automatic gender classification is well defined two-class classification problem, yet it has motivated a significant and increasing amount of research and applications, particularly since the rise of social platform and social media, and can be widely used for customized web service and targeted advertising. Check out our <a href="https://celinechen0211.wixsite.com/jiewei-chen/genderclassification">project webpage!</a> </p>
 
 
